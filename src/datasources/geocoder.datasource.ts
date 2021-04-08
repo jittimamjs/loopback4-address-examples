@@ -11,7 +11,7 @@ const config = {
       template: {
         method: 'GET',
         url:
-          'https://service.fit-cpgroup.com/v1/data-lake/province',
+          '<URL>', // Add your public rest api url in here.
       },
       functions: {
         getProvince: []
@@ -21,7 +21,7 @@ const config = {
       template: {
         method: 'GET',
         url:
-          'https://service.fit-cpgroup.com/v1/data-lake/district',
+          '<URL>', // Add your public rest api url in here.
       },
       functions: {
         getDistrict: []
@@ -31,7 +31,7 @@ const config = {
       template: {
         method: 'GET',
         url:
-          'https://service.fit-cpgroup.com/v1/data-lake/subdistrict',
+          '<URL>', // Add your public rest api url in here.
       },
       functions: {
         getSubDistrict: []

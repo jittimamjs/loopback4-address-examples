@@ -19,6 +19,7 @@ npm ci
 ```
 
 ## Run the application
+Add your REST API in ..\src\datasources\geocoder.datasource.ts (<URL>) before start application.
 
 ```sh
 npm start
